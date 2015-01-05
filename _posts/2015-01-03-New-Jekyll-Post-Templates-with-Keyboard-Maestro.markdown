@@ -5,18 +5,19 @@ date:   2015-01-03 12:11:32
 categories: workflows
 ---
 
-I've been a Keyboard Maestro user for a couple of years now, but haven't delved too deeply into building my own workflows. The new blog seemed like a good opportunity to get my hands a little dirty.
+I've been a Keyboard Maestro user for a couple of years now, but haven't delved too deeply into building my own macros. The new blog seemed like a good opportunity to get my hands a little dirty.
 
 ## Requirements
 
-The basic functionality I need:
+I needed a basic macro that would:
+
 1. Ask me for a post title
 2. Create a new markdown file in the Jekyll directory (with a properly formatted file name).
 3. Populate it with basic YAML front-matter.
 
 ## The Workflow
 
-First, prompt me for the post's title:
+So here's what it actually does. First, prompt me for the post's title:
 
 ![Post title prompt]({{ site.baseurl }}/assets/jekyll-km-prompt.png)
 
@@ -57,4 +58,4 @@ This is a minimum viable product for this workflow. Things I may or may not add 
 * Maybe create a subdirectory under `/assets` with the post slug, so I can keep assets organized.
 * Open the new post for editing in Sublime or Byword or whatever.
 
-I'm willing to bet I could implement a similar workflow in [Worklow for iOS](https://workflow.is). Stay tuned I guess?
+I'm willing to bet I could implement a similar workflow in [Workflow for iOS](https://workflow.is). Stay tuned I guess?
