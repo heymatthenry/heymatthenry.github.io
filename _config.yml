@@ -2,9 +2,9 @@
 title: Matt Henry
 email: blog@matthenry.fastmail.fm
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a law student at UNC, and I blog about apple things,
+  I'm a public defender in Southeastern Massachusetts, and I blog about apple things,
   workflows, maybe law stuff, and whatever else I feel like.
-  This is not legal advice and I am not your lawyer.
+  Views are mine alone. This is not legal advice and I am not your lawyer.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://heymatthenry.github.io" # the base hostname & protocol for your site
 twitter_username: heymatthenry
