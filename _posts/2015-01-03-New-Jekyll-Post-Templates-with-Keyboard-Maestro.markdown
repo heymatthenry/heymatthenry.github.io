@@ -33,7 +33,9 @@ Jekyll needs specifically formatted time and date stamps for both the post filen
 
 Next is the fun part. To put together the filename we want to create, we take the post title from the first step and replace any spaces with dashes. We can do this with an embedded shell script in the macro. This took me a minute to figure out, since [KM has a particular way you need to call its variables from shell scripts](http://www.keyboardmaestro.com/documentation/6/scripting.html#scripting_actions "Keyboard Maestro 6 Documentation: Scripting"), but it's straightforward. So here's how I did it (I'm not much of an awk-er, so there's probably a better way):
 
-![Dasherize the post title]({{ site.baseurl }}/assets/jekyll-km-dasherize.png)
+![Dasherize the post title]({{ site.baseurl }}/assets/jekyll-km-dasherize-better.png)
+
+**Update:** The original version of this macro choked on one-word post titles. The conditional checks for that condition now & skips the dasherize thing if the post title is just one word. Like literally everything about this macro, there are a million better ways to do this.
 
 Next, we create the post file and insert some basic front-matter. There are three main things going on in this step:
 
