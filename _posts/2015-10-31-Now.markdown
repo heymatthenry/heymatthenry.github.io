@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Now"
+date:   2015-10-31 08:40:54
+categories:
+---
+
+I don't know about you, but I have a super hard time following through
+on projects. Something that seems really cool or important at the time
+I think of it almost immediately takes a back seat to the next shiny
+thing that shows up in some blog post or article or paper or whatever.
+That's not great. If something is worth doing, it's worth actually
+doing.
+
+A recent installment of Shawn Blanc's email newsletter, ["The Fight
+Spot"](http://shawnblanc.net/newsletter/) clued me into the idea of
+a "Now" page. This is a page you put up on your website that just lists
+what projects currently have your focus and attention. Setting up a list
+like this forces you to identify the things that have and that deserve
+your attention. Revisiting the list and keeping it current will ensure
+that I'm being intentional about how I spend my time, and not leaving
+a trail of orphaned projects in my listless wake.
+
+I considered handling this in OmniFocus somehow (something like
+a "Now/Definitely" variant of the "Someday/Maybe" list), but I think
+a big part of what makes the Now page a good idea is the fact that it's
+public. So here it is, my [Now List](/now/).
