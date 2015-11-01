@@ -2,7 +2,7 @@
 layout: post
 title:  "Now"
 date:   2015-10-31 08:40:54
-categories:
+categories: productivity
 ---
 
 I don't know about you, but I have a super hard time following through
@@ -25,3 +25,5 @@ I considered handling this in OmniFocus somehow (something like
 a "Now/Definitely" variant of the "Someday/Maybe" list), but I think
 a big part of what makes the Now page a good idea is the fact that it's
 public. So here it is, my [Now List](/now/).
+
+
